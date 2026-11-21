@@ -1,0 +1,6 @@
+{
+  "name": "RetailX POS",
+  "description": "Offline-first Indian retail POS and store management tablet app with GST invoicing, inventory ledger, purchasing, accounts, PDF receipts, backup/restore, and LAN host/client mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetailX POS</string>
+    <string name="lan_host_channel_name">RetailX LAN Host Service</string>
+    <string name="lan_host_channel_desc">Persistent notification while this tablet serves store data to paired LAN clients</string>
+    <string name="lan_host_notif_title">RetailX Store Host Active</string>
+    <string name="lan_host_notif_text">Serving store database on local Wi-Fi</string>
+</resources>
